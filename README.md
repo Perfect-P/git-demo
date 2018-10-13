@@ -1,1 +1,1 @@
-this is demo for git commit
+this is demo how to use git
