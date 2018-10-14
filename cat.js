@@ -1,6 +1,6 @@
 var cat{
 	name: "cam",
-	age: 2,
+	age: 12,
 	color: "black and white"
 }
 function myCat(cat){
