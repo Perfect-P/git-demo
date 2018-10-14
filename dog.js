@@ -1,3 +1,3 @@
 function dog(){
-	console.log('gau gau');
+	console.log('gau gau gau');
 }
